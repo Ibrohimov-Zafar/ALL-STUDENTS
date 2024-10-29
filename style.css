@@ -56,7 +56,7 @@ video {
 
 h1 {
     margin-bottom: 20px;
-    font-size: 27px;  
+    font-size: 20px;  
     color: #007bff;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);  
 }
@@ -107,3 +107,4 @@ button:hover {
 
 #natija{
     font-size:35px;
+    color: red;
