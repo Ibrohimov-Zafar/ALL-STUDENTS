@@ -22,7 +22,7 @@
     "SAID ORIFOV",
     "SARDOR ERKINOV", 
     "SHOXRUZBEK ABDURAXMONOV",
-    "SHIRINOV SHOXRUH "
+    "DIORBEK YASHINOV"
 ];
 
  document.getElementById("tanlashBtn").addEventListener("click", function() {
