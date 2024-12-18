@@ -23,6 +23,7 @@
     "SARDOR ERKINOV", 
     "SHOXRUZBEK ABDURAXMONOV",
     "DIORBEK YASHINOV"
+    "ABDULLOH XUSANOV"
 ];
 
  document.getElementById("tanlashBtn").addEventListener("click", function() {
